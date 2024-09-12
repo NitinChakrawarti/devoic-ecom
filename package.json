@@ -1,0 +1,17 @@
+{
+  "name": "E_com",
+  "version": "1.0.0",
+  "description": "This is a task done in devoic cohort 3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nitin Chakrawarti",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.2",
+    "tailwindcss": "^2.2.19"
+  }
+}
